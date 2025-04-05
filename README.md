@@ -11,8 +11,8 @@ Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando 
 
 <p>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasolinto&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasolinto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasolinto&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasolinto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=16&cache_seconds=60"/>
 </div>
 </p>
 
@@ -22,6 +22,6 @@ Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
