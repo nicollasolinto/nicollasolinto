@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Nicollas Olinto!
 
-Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e desenvolvimento, especialmente no back-end. Tenho focado meus estudos em Java e estou prestes a iniciar um projeto aplicado com essa linguagem. Busco oportunidades para colaborar em projetos desafiadores e envolventes, onde posso contribuir com meu entusiasmo pela tecnologia e meu desejo de aprender e crescer constantemente.
+Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e desenvolvimento, especialmente no back-end. Tenho focado meus estudos em JavaScript, pois estou prestes a iniciar um projeto aplicado com essa linguagem. Busco oportunidades para colaborar em projetos desafiadores e envolventes, onde posso contribuir com meu entusiasmo pela tecnologia e meu desejo de aprender e crescer constantemente.
 
 <div>
   <a href="https://www.linkedin.com/in/nicollas-fernandes-olinto-90a07327a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,4 +24,5 @@ Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando 
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
 </div>
