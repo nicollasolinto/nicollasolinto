@@ -9,11 +9,9 @@ Atualmente sou aluno no Centro Universitário Fundação Santo André, cursando 
 
 ##
 
-<p>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasolinto&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br&cache_seconds=60"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasolinto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=16&cache_seconds=60"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasolinto&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasolinto&layout=compact&theme=dark&custom_title=Tecnologias" />
 </p>
 
 ##
