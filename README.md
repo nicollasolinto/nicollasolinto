@@ -1,7 +1,5 @@
 ## Ola! Eu sou o Nicollas Olinto!
 
-Atualmente sou aluno na Universidade São Judas Tadeu, cursando Ciência da Computação, sou apaixonado por tecnologia e desenvolvimento, especialmente no back-end. Tenho focado meus estudos em Java, reforçando meus conhecimentos básicos para em breve iniciar projetos com essa linguagem. Busco oportunidades para colaborar em projetos desafiadores e envolventes, onde posso contribuir com meu entusiasmo pela tecnologia e meu desejo de aprender e crescer constantemente.
-
 <div>
   <a href="https://www.linkedin.com/in/nicollas-fernandes-olinto-90a07327a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nicollasolinto@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
